@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Odev2", "Odev2\Odev2.vcproj", "{F0946772-E36B-4AA0-B345-82D3BA4433CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0946772-E36B-4AA0-B345-82D3BA4433CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0946772-E36B-4AA0-B345-82D3BA4433CD}.Debug|Win32.Build.0 = Debug|Win32
+		{F0946772-E36B-4AA0-B345-82D3BA4433CD}.Release|Win32.ActiveCfg = Release|Win32
+		{F0946772-E36B-4AA0-B345-82D3BA4433CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
