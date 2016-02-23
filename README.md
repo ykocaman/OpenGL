@@ -1,6 +1,6 @@
 Open GL ve Processing
 ------------------------------------
-https://github.com/ykocaman/OpenGL/tree/master/2DKare  
-https://github.com/ykocaman/OpenGL/tree/master/3DKulah  
-https://github.com/ykocaman/OpenGL/tree/master/3DNesneYonetimi  
-https://github.com/ykocaman/OpenGL/tree/master/Infografik  
+[2DKare](2DKare)  
+[3DKulah](3DKulah)  
+[3DNesneYonetimi](3DNesneYonetimi)  
+[Processing ile Infografik](Infografik)  
